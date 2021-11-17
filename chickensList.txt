@@ -1,6 +1,11 @@
+Breeds Classifications:
+Indian Breeds:
+==============
 Broiler chickens
 Free grass chickens
 leghorn chickens
+Foreign Breeds:
+===============
 silkie
 road island hen
 Australop
