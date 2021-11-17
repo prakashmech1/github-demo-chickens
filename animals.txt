@@ -1,3 +1,10 @@
+Wild:
+=====
+Tiger
+Lion
+Elephant
+Chetah
+
 Domestic:
 =========
 Cow
